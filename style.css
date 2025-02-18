@@ -1,0 +1,43 @@
+*  {
+    font-size: 16px;
+    font-family: "Comic Sans MS";
+
+}
+
+p{
+    color: rgb(84, 12, 167);
+    background-color: rgb(145, 202, 13);
+    width: 400px;   
+    height: 200px;
+    font-size: 1rem;
+    
+}
+
+div{
+    background-color: aqua;
+    border: 10px gray solid;
+    width: 25rem;
+    height: 50rem;
+    margin: 1rem auto;
+    padding: 2rem;
+    box-shadow: 1rem 0.9rem 1rem 0.9rem;
+}
+
+body{
+    background-color: red;
+    padding: 10rem;
+}
+
+img{
+    width: 20rem;
+
+}
+
+button{
+    background-color: blue;
+    color: orangered;
+    border: none;
+    padding: 1rem 2rem 1rem 1rem;
+    box-shadow: 0.5rem 0.5rem black;
+
+}
